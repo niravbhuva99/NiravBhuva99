@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**niravbhuva99/NiravBhuva99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 i'm Nirav from india, and I'm in my third year of studies towards a bachelor's in Computer Science. a passionate self-taught web developer. I really enjoy Learning language and frameworks like React and React native.
 
