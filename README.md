@@ -12,7 +12,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on ... improving my web development skills more efficiently.
+- 🔭 I’m currently working on ... improving my web development skills more efficiently.
 - 🌱 I’m currently learning ...react.js,SQL,python
 - 👯 I’m looking to collaborate on ...react.js
 - 🤔 I’m looking for help with ...SQL,python
