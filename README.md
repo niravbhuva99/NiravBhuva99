@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...email
 - 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I am half Finnish
 
 **languages and tools:**  
 
