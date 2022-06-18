@@ -10,7 +10,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - do reach, [email](mailto:niravbhuva99@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ... improving my web development skills more efficiently.
 - 🌱 I’m currently learning ...react.js,SQL,python
